@@ -9,3 +9,7 @@ yonekenの方々など、測光によるデータ解析を行う人のための�
 
 ## 以下のURLで見ていただくとダウンロードやコードの保存なども簡単なのでおすすめです。
 http://nbviewer.jupyter.org/github/TakuNishiumi/
+
+
+## 今後の計画
+* 誤差の伝播に関する計算
