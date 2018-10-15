@@ -13,3 +13,5 @@ http://nbviewer.jupyter.org/github/TakuNishiumi/
 
 ## 今後の計画
 * 誤差の伝播に関する計算
+* 単位計算
+* 
